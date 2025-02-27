@@ -1,0 +1,10 @@
+# Query: videos o
+# Flags: CaseSensitive
+# ContextLines: 1
+
+1 result - 1 file
+
+src/pages/tutorials/constants.ts:
+  5  export const USER_GUIDE = 'user guide';
+  6: export const VIDEOS = 'videos on dtrader Hub';
+  7  export const QUICK_STRATEGY_GUIDES = 'Denara Strategies guide';
