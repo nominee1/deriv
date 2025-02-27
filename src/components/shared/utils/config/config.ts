@@ -80,7 +80,7 @@ export const getDefaultAppIdAndUrl = () => {
 
 export const getAppId = () => {
     let app_id = null;
-    window.localStorage.setItem('config.app_id', '37016');   //MY app Id  37016
+    window.localStorage.setItem('config.app_id', '67468');   //MY app Id  37016
     const config_app_id = window.localStorage.getItem('config.app_id');
     const current_domain = getCurrentProductionDomain() ?? '';
 
